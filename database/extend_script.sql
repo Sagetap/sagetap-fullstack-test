@@ -1,0 +1,2 @@
+-- This file is simply here as a location to save scripts you had to run to extend the database according to the exercise
+-- You still have to run the commands in this file manually
