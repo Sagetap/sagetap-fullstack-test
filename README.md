@@ -1,6 +1,7 @@
 # Sagetap Fullstack Test
 
 Welcome to the Sagetap Fullstack Technical Challenge! This test is designed to evaluate your ability to work across the stack using PostgreSQL, Kotlin, and React.
+Please create a private fork to share your work when you are finished.
 
 The local municipality needs your help to deal with the recent influx of shelter kitties. A mysterious shortage of catnip sent all cats scrambling into shelters to demand more, overwhelming the staff.
 Your task is to build a small system to manage pet listings and adoptions.
